@@ -9,7 +9,7 @@ public class HangmanGame {
 }
 
 //Hangman game is played often with numbers and special symbols (ASCII usually)
-//If someone wants to play it only with alphabetical letter, then we declare a string like this: String alphabet = "abcdefghijklmnopqrstuvxwyz";
+//If someone wants to play it only with alphabetical letters, then we declare a string like this: String alphabet = "abcdefghijklmnopqrstuvxwyz";
 //Now, we write these lines of code at method word() in an appropriate place:
 //     for (int i = 0; i < wordLength; i++){
 //          for (int j = 0; j < alphabet.length(); j++){
